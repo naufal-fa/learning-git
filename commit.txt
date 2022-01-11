@@ -2,3 +2,4 @@ Tujuan pembelajaran & Target
 - Mengetahui cara menggunakan Git & Github
 - Menambah wawasan tentang website
 - Untuk digunakan di project bersama
+- Agar memudahkan mengerjakan project bersama
